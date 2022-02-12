@@ -1,0 +1,8 @@
+file_format: "1"
+id: sick68
+name: Sick68
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
